@@ -11,4 +11,7 @@ echo 'Resta: ' . ($numero1 - $numero2) . '</br>' ;  // Nos muestra el resultado 
 
 echo 'Multiplicación: ' . ($numero1 * $numero2) . '</br>' ;  // Nos muestra el resultado de la multiplicación
 
+echo 'División: ' . ($numero1 / $numero2) . '</br>' ;  // Nos muestra el resultado de la división
+
+echo 'Resto: ' . ($numero1 % $numero2) . '</br>' ;   // Nos muestra el resultado del resto de la división
 

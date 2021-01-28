@@ -32,10 +32,18 @@ $year = 2019;
 //$year = 1 + $year; // Pre-incremento
 //$year = 1 - $year; //Pre-decremento
 
-
+echo "<h1>$year</h1>";
 
 // Operadores de asignación
 
+$edad = 38;
 
+echo $edad.'<br>';
 
-echo "<h1>$year</h1>";
+echo ($edad += 5).'<br>'; 
+
+echo ($edad -= 5).'<br>';
+
+echo ($edad *= 5).'<br>';
+
+echo ($edad /= 5).'<br>';

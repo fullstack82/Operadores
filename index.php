@@ -15,3 +15,27 @@ echo 'División: ' . ($numero1 / $numero2) . '</br>' ;  // Nos muestra el result
 
 echo 'Resto: ' . ($numero1 % $numero2) . '</br>' ;   // Nos muestra el resultado del resto de la división
 
+
+
+// Operadores de incremento y decremento
+
+$year = 2019;
+// $year++; //Operador de incremento
+// $year--;  //Operador de decremento
+// ++$year;  //Operador de pre-Incremento
+// --$year;  //Operador de pre-Decremento
+
+// Explicacion simple de los operadores
+
+//$year = $year + 1;  // Incremento
+//$year = $year - 1;  // Decremento
+//$year = 1 + $year; // Pre-incremento
+//$year = 1 - $year; //Pre-decremento
+
+
+
+// Operadores de asignación
+
+
+
+echo "<h1>$year</h1>";
